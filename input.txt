@@ -1,0 +1,25 @@
+# Expressões simples
+1 + 90832
+4 * 20
+10 - 7
+8 / 4
+
+# Parênteses
+(2 + 10) * 4
+10 / (2 + 3)
+
+# Variáveis
+x = 5
+y = x + 3
+z = y * 2
+z - x
+
+# Reatribuição de variável
+x = 10
+x + y + z
+
+# Variável não definida
+a + 1
+
+# Divisão por zero
+10 / 0
